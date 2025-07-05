@@ -1137,7 +1137,7 @@
 .switchbox .tab_hd .item{color: #333;}
 .switchbox .tab_hd .on{color: #fff;}
 .switchbox .tj_item{padding-bottom: 10px;}
-.Minhjadd .titleswich2{height: 30px; line-height:30px;  background: #f4f4f4; margin: 10px 0;}
+.Minhjadd .titleswich2{/*height: 30px;*/ line-height:30px;  background: #f4f4f4; margin: 10px 0;}
 .Minhjadd .titleswich2 .a{padding: 0 10px; width: auto; color: #333; margin-right: 10px;}
 .Minhjadd .titleswich2 .a a{color: #333;}
 .Minhjadd .titleswich2 .a.on{background: #1aad19; color: #fff;}
