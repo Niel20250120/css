@@ -39,7 +39,7 @@ background: -ms-linear-gradient(right, #eeeeee 70%, rgba(238, 238, 238, 0.1) 100
 
 .comments_wrap .cmt_item:last-child { border-bottom: none; }
 .comments_wrap .cmt_item {overflow: hidden;border-bottom: 1px dashed #e5e5e5;margin: 12px 0;padding-bottom: 10px;display: flex;}
-.comments_wrap .cmt_item .cmt_tx { width: 47px; margin-right: 12px; }
+.comments_wrap .cmt_item .cmt_tx { width: 47px; margin-right: 12px; margin-top: 15px;}
 .comments_wrap .cmt_item .cmt_tx .img { display: inline-block; }
 .comments_wrap .cmt_item .cmt_tx .img, 
 .comments_wrap .cmt_item .cmt_tx .img img { width: 37px; height: 37px; display:block; margin:0 auto; }
