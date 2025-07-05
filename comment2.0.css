@@ -1099,7 +1099,7 @@
 .downl_head.theme .m-score-box .m-score-item .m-icon-box i.icon-star{background-image: url("../images/down_theme/ic-star.png");}
 .downl_head.theme .m-score-box .m-score-item .m-icon-box i.icon-user{background-image: url("../images/down_theme/ic-user-g.png");}
 .downl_head.theme .bblist{display: flex;width: 100%; margin-left: 0px;}
-.downl_head.theme .bblist .bt{background: #c9c9c9; position: relative; height: 26px; line-height: 26px;padding: 0px 5px; color: #fff; border-radius: 0;padding-right: 15px;  font-size: 12px; position: relative; }
+.downl_head.theme .bblist .bt{background: #31ad8f; position: relative; height: 26px; line-height: 26px;padding: 0px 5px; color: #fff; border-radius: 0;padding-right: 15px;  font-size: 12px; position: relative; }
 .downl_head.theme .bblist .bt::after{content: ''; width: 0;height: 0; position: absolute;top: 0;right: 0;border-top: 13px solid transparent;border-right: 10px solid #fff;border-bottom: 13px solid transparent;}
 .downl_head.theme .bblist p{flex: 1;overflow: hidden;}
 .downl_head.theme .bblist p a{width: auto; padding: 0 8px; font-size: 12px;}
