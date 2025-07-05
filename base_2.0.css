@@ -27,7 +27,7 @@ img{border: none;width: 100%;}
 .header_v2.on .meun {transform: rotate(145deg);} 
 
 .header_v2 {background: #f7f7f8;min-height: 93px;position: relative;}
-.header_v2 .top {padding: 0 12px;height: 52px;border-bottom: 1px solid #e5e5e5;}
+.header_v2 .top {padding: 0 12px;height: 52px;border-bottom: 1px solid #e5e5e5;background-color: #32af91;}
 .header_v2 .top .logo {width: 160px;height: 30px;background: url("../images/logo.png") no-repeat;background-size: auto 30px;display: block;float: left;margin: 10px 0 0 0;}
 .header_v2 .top .rcont { float: right; }
 .header_v2 .top .rcont .btn,
