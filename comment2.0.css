@@ -892,7 +892,7 @@
 
 .sy-tuijian .lis .btn a i.ios { background-position: 0 -295px; margin: 0 4px 5px 0; }
 
-.sy-tuijian .lis .btn a.xz { border-color: #0de8fb; color: #0de8fb; width: 60px; }
+.sy-tuijian .lis .btn a.xz { border-color: #0de8fb; color: #f2f2f3; width: 60px;background-color: #0de8fb; }
 
 .sy-tuijian .lis .btn a.xz i { background-position: 0 -796px; background-size: 28px auto; width: 13px; height: 13px; margin-right: 4px; margin-bottom: 2px; }
 
