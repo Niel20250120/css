@@ -621,11 +621,11 @@
 
 .line_de { border-bottom: 1px dashed #eee; margin: 0 12px; }
 
-.detaile_top { overflow: hidden; margin: 12px; }
+.detaile_top { overflow: hidden; margin: 12px; border-bottom: 2px solid #f2f2f3; }
 
 .detaile_top h1 { display: block; line-height: 26px; font-size: 18px; color: #434343; margin-bottom: 12px; }
 
-.detaile_top .info { display: flex; width: 100%; }
+.detaile_top .info { display: flex; width: 100%; padding-bottom: 10px; }
 
 .detaile_top .info .img { margin-right: 10px; overflow: hidden; }
 
