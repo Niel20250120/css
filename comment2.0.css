@@ -989,7 +989,7 @@
 .relevant_gl li .img, .relevant_gl li .img img { width: 130px; height: 80px; border-radius: 6px; }
 .relevant_gl li .txt { flex: 1; }
 .relevant_gl li .txt .bt { color: #1b1b1b; font-size: 14px; height: 20px; line-height: 20px; overflow: hidden; width: 100%; display: block; }
-.relevant_gl li .txt .info { width: 100%; }
+.relevant_gl li .txt .info { width: 88%; }
 .relevant_gl li .txt .info .lis { font-size: 12px; color: #707070; line-height: 20px; height: 20px; margin-top: 22px; display: inline-block; }
 .relevant_gl li .txt .info .lis i { background: url(../images/img_c.png) no-repeat; background-size: 23px auto; width: 18px; height: 18px; display: inline-block; margin: 0 4px 4px 0; vertical-align: middle; }
 .relevant_gl li .txt .info .lis .time { background-position: 0 -168px; background-size: 24px auto; }
