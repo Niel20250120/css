@@ -367,9 +367,9 @@
 /*comm-title*/
 .comm-title { overflow: hidden; height: 40px; line-height: 40px; text-align: center; position: relative; }
 
-.comm-title .line { height: 0; border-top: 1px dashed #e5e5e5; width: 100%; position: absolute; left: 0; top: 20px; }
+.comm-title .line { height: 0; border-top: 5px solid #e5e5e5;/*border-top: 1px dashed #e5e5e5;*/ width: 100%; position: absolute; left: 0; top: 20px; }
 
-.comm-title span { width: 80px; display: block; margin: 0 auto; background: #fff; height: 40px; line-height: 40px; color: #434343; font-size: 14px; position: relative; z-index: 2; }
+.comm-title span { width: 80px; display: block; margin: 0 auto; background: #fff; height: 40px; line-height: 40px; color: #434343; font-size: 24px; position: relative; z-index: 2; }
 
 /*page*/
 .page { background: #fff; padding: 10px 20px; display: flex; justify-content: space-between; }
@@ -548,7 +548,7 @@
 .QZ-title i { display: inline-block; background: url(../images/img_b.png) no-repeat; background-size: 20px auto; background-position: 0 -91px; width: 20px; height: 20px; margin: 0 6px -2px 0; }
 
 /*comm-title*/
-.comm-title { margin: 0 12px; overflow: hidden; height: 40px; line-height: 40px; text-align: center; position: relative; }
+.comm-title { margin: 0 12px; overflow: hidden; height: 50px; line-height: 40px; text-align: center; position: relative;margin-top:20px; }
 
 .comm-title .line { height: 0; border-top: 1px dashed #e5e5e5; width: 100%; position: absolute; left: 0; top: 20px; }
 
@@ -866,7 +866,7 @@
 
 .wd_infor .tj_wd span:after { content: ''; display: block; width: 0; height: 0; border-width: 10px 10px 0; border-style: solid; border-color: #31b6da transparent transparent; position: absolute; bottom: -10px; left: 0px; right: 0px; margin: auto; }
 
-.sy-tuijian { overflow: hidden; margin: 0 12px; }
+.sy-tuijian { overflow: hidden; margin: 0 12px; margin-top: 20px;}
 
 .sy-tuijian .lis:last-child { border-bottom: none; }
 
