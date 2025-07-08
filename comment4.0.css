@@ -513,7 +513,7 @@
 
 .share_wrap .bdsharebuttonbox a { display: block; float: left; width: 30px; height: 30px; border-radius: 50%; border: 2px solid #eee; margin: 10px 4px 0; padding: 0; background: none; }
 
-.share_wrap .bdsharebuttonbox a:before { display: block; content: ''; margin: 2px 0 0 3px; background: url("../images/ico_fx.png") no-repeat; width: 24px; height: 24px !important; padding: 0 !important; background-size: 24px auto; }
+.share_wrap .bdsharebuttonbox a:before { display: block; content: ''; margin: 2px 0 0 3px; background: url(https://i.postimg.cc/3xsR8gSk/ico-fx.png) no-repeat; width: 24px; height: 24px !important; padding: 0 !important; background-size: 24px auto; }
 
 .share_wrap .bdsharebuttonbox .bds_weixin:before { background-position: 0 0 !important; }
 
