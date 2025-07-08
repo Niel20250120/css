@@ -28,7 +28,8 @@ img{border: none;width: 100%;}
 
 .header_v2 {background: #f7f7f8;min-height: 93px;position: relative;}
 .header_v2 .top {padding: 0 12px;height: 52px;border-bottom: 1px solid #e5e5e5;border-bottom: 1px solid #e5e5e5;}
-.header_v2 .top .logo {width: 160px;height: 30px;background: url("https://raw.githubusercontent.com/Niel20250120/images/main/logos.png") no-repeat;background-size: auto 30px;display: block;float: left;margin: 10px 0 0 0;}
+.header_v2 .top .logo {width: 160px;height: 30px;background: url("https://raw.githubusercontent.com/Niel20250120/images/main/logos.png") no-repeat;background-size: auto 30px;display: block;float: left;margin: 10px 0 0 0;    margin-top: 5px;
+    margin-left: 10px; margin-top: 5px;}
 .header_v2 .top .rcont { float: right; }
 .header_v2 .top .rcont .btn,
 .header_v2 .top .rcont .downl_btn {float: left;color: #fff;font-size: 12px;display: block;margin: 16px 8px 0 0;height: 22px; padding: 0 10px;line-height: 22px; background: #626262; border-radius: 20px; text-align: center;}
